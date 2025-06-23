@@ -1,4 +1,4 @@
-25630085939310027
+25631866533446530
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -66667,6 +66667,13 @@ High Density 2x60 Connector
 0
 120
 120
+Kicad_Personal
+MountingHole_2.5mm_3.9mm_Pad_TopBottom_1
+Mounting Hole 3.7mm
+mounting hole 3.7mm
+0
+3
+1
 Kicad_Personal
 MountingHole_3.7mm_3.9mm_Pad_TopBottom
 Mounting Hole 3.7mm
