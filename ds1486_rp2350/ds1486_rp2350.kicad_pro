@@ -464,7 +464,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ds1486.kicad_pro",
+    "filename": "ds1486_rp2350.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -531,6 +531,18 @@
       {
         "netclass": "Power",
         "pattern": "/VRTC"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/VIN"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "VBUS"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/VREG_LX"
       }
     ]
   },
